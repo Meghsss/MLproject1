@@ -82,5 +82,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Acknowledge any contributors, libraries, or resources that have influenced or supported your project.
-```
 
